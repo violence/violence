@@ -1,0 +1,27 @@
+{
+  "name": "violence",
+  "version": "0.0.2",
+  "description": "Painful thing to make developer's life harder",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theprotein/violence.git"
+  },
+  "keywords": [
+    "code",
+    "style",
+    "checker",
+    "jscs",
+    "eslint",
+    "linter"
+  ],
+  "author": "Alexej Yaroshevich <zxqfox@gmail.com> (http://github.com/zxqfox)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/theprotein/violence/issues"
+  },
+  "homepage": "https://github.com/theprotein/violence"
+}
