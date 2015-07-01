@@ -6,7 +6,7 @@ A painful tool to make developer's life harder.
 
 With `violence` you have to make a set of code style and linting config files to check your code base as a package and use it in every project you want to check.
 
-Used packages inside: [`eslint`][], [`jscs`][], [`git-hooks`][].
+Used packages inside: [`eslint`][], [`jscs`][], [`git-hooks`][], [mversion](https://github.com/mikaelbr/mversion), [conventional-changelog](https://github.com/ajoslin/conventional-changelog).
 
 ## How it works?
 
