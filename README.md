@@ -55,7 +55,7 @@ Enjoy your pain!
 
 ## License
 
-Code and documentation copyright 2015 The Protein Corp. Code released under [The MIT License](LICENSE.md).
+Code and documentation copyright 2015 The Protein Corp. Code released under [The MIT License](LICENSE).
 
 [`jscs`]: http://jscs.info/
 [`eslint`]: http://eslint.org/
