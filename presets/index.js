@@ -1,0 +1,2 @@
+require('./babel');
+require('./jscs');
